@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @AHMEDRAFATO6U
-- 👀 I’m interested in Data science 
-- 🌱 I’m currently learning ML,DL,NLP,Coputer vision 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-AHMEDRAFATO6U/AHMEDRAFATO6U is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Ahmed Raft  
+- 👀 I’m a Backend Developer specialized in Java & Spring Boot  
+- 🌱 Currently improving my skills in Spring Security, JPA/Hibernate, Docker, and Microservices  
+- 💞️ Open to collaborate on Backend systems, RESTful APIs, and Full-Stack projects  
+- 📫 Reach me via GitHub or LinkedIn  
+- ⚡ Fun fact: I love turning complex business logic into clean code  
